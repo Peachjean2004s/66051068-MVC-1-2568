@@ -7,5 +7,9 @@
   { "job_id": "11000005", "title": "DevOps Engineer", "description": "Manage our cloud infrastructure.", "company_id": "12345678", "deadline": "2025-12-01", "status": "open", "type": "full-time" },
   { "job_id": "22000004", "title": "Content Creator Intern", "description": "Create engaging content for social media.", "company_id": "87654321", "deadline": "2025-10-05", "status": "open", "type": "internship" },
   { "job_id": "11000006", "title": "Data Scientist", "description": "Analyze data to drive business decisions.", "company_id": "12345678", "deadline": "2025-11-25", "status": "open", "type": "full-time" },
-  { "job_id": "11000004", "title": "QA Tester", "description": "Ensure the quality of our software products.", "company_id": "12345678", "deadline": "2025-11-15", "status": "closed", "type": "full-time" }
+  { "job_id": "11000004", "title": "QA Tester", "description": "Ensure the quality of our software products.", "company_id": "12345678", "deadline": "2025-11-15", "status": "closed", "type": "full-time" },
+  { "job_id": "22000005", "title": "IT Support Specialist", "description": "Provide technical support and troubleshoot issues for staff.", "company_id": "87654321", "deadline": "2025-11-30", "status": "open", "type": "full-time" },
+  { "job_id": "11000007", "title": "Machine Learning Intern", "description": "Assist in building and training ML models.", "company_id": "12345678", "deadline": "2025-10-15", "status": "open", "type": "internship" },
+  { "job_id": "22000006", "title": "Marketing Coordinator", "description": "Coordinate marketing campaigns and events.", "company_id": "87654321", "deadline": "2025-12-10", "status": "open", "type": "full-time" }
+
 ]
