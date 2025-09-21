@@ -4,5 +4,11 @@
   { "candidate_id": "66010003", "first_name": "Arthit", "last_name": "Kaewsai", "email": "artit.k@example.com", "status": "graduated" },
   { "candidate_id": "66010004", "first_name": "Manee", "last_name": "Meena", "email": "manee.m@example.com", "status": "student" },
   { "candidate_id": "65010005", "first_name": "Piti", "last_name": "Yindee", "email": "piti.y@example.com", "status": "graduated" },
-  { "candidate_id": "65010006", "first_name": "Suda", "last_name": "Paphlen", "email": "suda.p@example.com", "status": "student" }
+  { "candidate_id": "65010006", "first_name": "Suda", "last_name": "Paphlen", "email": "suda.p@example.com", "status": "student" },
+  { "candidate_id": "65010007", "first_name": "Anucha", "last_name": "Kittisak", "email": "anucha.k@example.com", "status": "student" },
+  { "candidate_id": "65010008", "first_name": "Suchada", "last_name": "Boonsri", "email": "suchada.b@example.com", "status": "graduated" },
+  { "candidate_id": "65010009", "first_name": "Wichai", "last_name": "Prasert", "email": "wichai.p@example.com", "status": "student" },
+  { "candidate_id": "65010010", "first_name": "Kanya", "last_name": "Srisuk", "email": "kanya.s@example.com", "status": "graduated" },
+  { "candidate_id": "65010011", "first_name": "Nattapong", "last_name": "Chaisri", "email": "nattapong.c@example.com", "status": "student" },
+  { "candidate_id": "65010012", "first_name": "Siriporn", "last_name": "Thongchai", "email": "siriporn.t@example.com", "status": "graduated" }
 ]
