@@ -1,0 +1,4 @@
+[
+  { "company_id": "12345678", "name": "Tech Innovators Inc.", "email": "hr@techinnovators.com", "location": "Bangkok" },
+  { "company_id": "87654321", "name": "Creative Solutions Co., Ltd.", "email": "contact@creativesolutions.co.th", "location": "Chiang Mai" }
+]

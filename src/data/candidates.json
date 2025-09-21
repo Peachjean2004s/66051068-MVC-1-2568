@@ -1,0 +1,8 @@
+[
+  { "candidate_id": "66010001", "first_name": "Somchai", "last_name": "Jaidee", "email": "somchai.j@example.com", "status": "graduated" },
+  { "candidate_id": "66010002", "first_name": "Somying", "last_name": "Rukrian", "email": "somyhing.r@example.com", "status": "student" },
+  { "candidate_id": "66010003", "first_name": "Arthit", "last_name": "Kaewsai", "email": "artit.k@example.com", "status": "graduated" },
+  { "candidate_id": "66010004", "first_name": "Manee", "last_name": "Meena", "email": "manee.m@example.com", "status": "student" },
+  { "candidate_id": "65010005", "first_name": "Piti", "last_name": "Yindee", "email": "piti.y@example.com", "status": "graduated" },
+  { "candidate_id": "65010006", "first_name": "Suda", "last_name": "Paphlen", "email": "suda.p@example.com", "status": "student" }
+]
